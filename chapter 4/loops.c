@@ -7,8 +7,6 @@ int main()
 
     // To repeat some parts of the program
 
-
-
     /*
         Types:
         1. for (can do both while and do-while)
@@ -27,9 +25,9 @@ int main()
     // 1) FOR LOOP:
 
     /*
-         for(initialisation; condition; updation) {
-         //do something
-         }
+        for(initialisation; condition; updation) {
+        //do something
+        }
     */
     int i = 0;
 
